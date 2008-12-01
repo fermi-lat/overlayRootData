@@ -1,0 +1,37 @@
+------------------------------------------------------------
+User: usher  Mon Dec  1 11:08:09 PST 2008
+overlayRootData
+
+Log Message:
+Initial import of package to handle Overlay persistent data
+
+Status:
+
+Vendor Tag:	GLAST
+Release Tags:	v0r0
+		
+N overlayRootData/.cvsignore
+N overlayRootData/cmt/NMake
+N overlayRootData/cmt/requirements
+N overlayRootData/cmt/.cvsignore
+N overlayRootData/src/mainpage.h
+N overlayRootData/src/GemOverlay.cxx
+N overlayRootData/src/CalOverlay.cxx
+N overlayRootData/src/TkrOverlay.cxx
+N overlayRootData/src/AcdOverlay.cxx
+N overlayRootData/src/EventOverlay.cxx
+N overlayRootData/src/test/testOverlayClasses.cxx
+N overlayRootData/src/test/.rootrc
+N overlayRootData/src/test/.cvsignore
+N overlayRootData/doc/release.notes
+N overlayRootData/overlayRootData/GemOverlay.h
+N overlayRootData/overlayRootData/AcdOverlay.h
+N overlayRootData/overlayRootData/EventOverlay.h
+N overlayRootData/overlayRootData/CalOverlay.h
+N overlayRootData/overlayRootData/GlastAxis.h
+N overlayRootData/overlayRootData/LinkDef.h
+N overlayRootData/overlayRootData/TkrOverlay.h
+
+No conflicts created by this import
+
+    *
