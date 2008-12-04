@@ -1,4 +1,34 @@
 ------------------------------------------------------------
+TAG
+Tag name: v0r0p1, operation: add
+Package: overlayRootData
+User: usher  Thu Dec  4 13:56:55 2008
+Files:
+  overlayRootData/.cvsignore  1.1.1.1
+  overlayRootData/ChangeLog  1.2
+  overlayRootData/cmt/.cvsignore  1.1.1.1
+  overlayRootData/cmt/NMake  1.1.1.1
+  overlayRootData/cmt/requirements  1.2
+  overlayRootData/doc/release.notes  1.2
+  overlayRootData/overlayRootData/EventOverlay.h  1.1.1.1
+  overlayRootData/overlayRootData/CalOverlay.h  1.1.1.1
+  overlayRootData/overlayRootData/GlastAxis.h  1.1.1.1
+  overlayRootData/overlayRootData/GemOverlay.h  1.1.1.1
+  overlayRootData/overlayRootData/AcdOverlay.h  1.1.1.1
+  overlayRootData/overlayRootData/TkrOverlay.h  1.1.1.1
+  overlayRootData/overlayRootData/LinkDef.h  1.1.1.1
+  overlayRootData/src/TkrOverlay.cxx  1.1.1.1
+  overlayRootData/src/mainpage.h  1.1.1.1
+  overlayRootData/src/AcdOverlay.cxx  1.1.1.1
+  overlayRootData/src/GemOverlay.cxx  1.1.1.1
+  overlayRootData/src/EventOverlay.cxx  1.2
+  overlayRootData/src/CalOverlay.cxx  1.1.1.1
+  overlayRootData/src/test/.cvsignore  1.1.1.1
+  overlayRootData/src/test/testOverlayClasses.cxx  1.1.1.1
+  overlayRootData/src/test/.rootrc  1.1.1.1
+
+    *
+------------------------------------------------------------
 User: usher  Thu Dec  4 13:55:20 PST 2008
 overlayRootData/doc
 
