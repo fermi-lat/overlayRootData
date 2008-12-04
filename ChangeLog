@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Thu Dec  4 13:52:41 PST 2008
+overlayRootData/src
+
+Modified Files:
+	EventOverlay.cxx 
+Log Message:
+Make sure to delete the objects we own...
+    *
+------------------------------------------------------------
 TAG
 Tag name: v0r0p0, operation: add
 Package: overlayRootData
