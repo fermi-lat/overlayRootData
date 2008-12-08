@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: usher  Mon Dec  8 07:47:50 PST 2008
+overlayRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+Remove explicit dependence on facilities and tag v0r0p2
+    *
+------------------------------------------------------------
+User: usher  Mon Dec  8 07:47:50 PST 2008
 overlayRootData/cmt
 
 Modified Files:
