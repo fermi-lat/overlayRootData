@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Thu Jan 15 08:01:56 PST 2009
+overlayRootData/overlayRootData
+
+Modified Files:
+	EventOverlay.h 
+Log Message:
+Cleaning up this class a bit... while we can!
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-15-50-10, operation: add
 Package: overlayRootData
