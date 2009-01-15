@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Thu Jan 15 10:03:41 PST 2009
+overlayRootData/overlayRootData
+
+Modified Files:
+	EventOverlay.h 
+Log Message:
+Forgot to bump version number for root
+    *
+------------------------------------------------------------
 TAG
 Tag name: overlayRootData-00-01-00, operation: add
 Package: overlayRootData
