@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: usher  Mon Mar 16 10:21:37 PDT 2009
+overlayRootData/overlayRootData
+
+Modified Files:
+	EventOverlay.h LinkDef.h 
+Added Files:
+	PtOverlay.h 
+Log Message:
+Add data object to contain the overlay events Pt parameters
+    *
+------------------------------------------------------------
+User: usher  Mon Mar 16 10:21:37 PDT 2009
 overlayRootData/cmt
 
 Modified Files:
