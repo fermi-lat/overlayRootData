@@ -1,13 +1,4 @@
 ------------------------------------------------------------
-User: usher  Tue Mar 17 12:47:11 PDT 2009
-overlayRootData/overlayRootData
-
-Modified Files:
-	EventOverlay.h 
-Log Message:
-bumping the version on EventOverlay object
-    *
-------------------------------------------------------------
 TAG
 Tag name: overlayRootData-00-02-00, operation: add
 Package: overlayRootData
