@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: jrb  Mon Dec  7 18:50:50 PST 2009
+GlastRelease-scons/overlayRootData
+
+Modified Files:
+	.cvsignore 
+Added Files:
+	SConscript overlayRootDataLib.py 
+Log Message:
+Add stuff for SCons builds
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: overlayRootData-00-02-03, operation: add
 Package: overlayRootData
