@@ -1,39 +1,4 @@
 ------------------------------------------------------------
-User: usher  Tue Apr 27 13:32:12 PDT 2010
-overlayRootData
-
-Modified Files:
-	SConscript 
-Log Message:
-Preparing to tag v0r3p0
-    *
-------------------------------------------------------------
-User: usher  Tue Apr 27 09:45:23 PDT 2010
-overlayRootData/src
-
-Modified Files:
-	EventOverlay.cxx 
-Log Message:
-    *
-------------------------------------------------------------
-User: usher  Tue Apr 27 09:45:23 PDT 2010
-overlayRootData/overlayRootData
-
-Modified Files:
-	EventOverlay.h LinkDef.h 
-Added Files:
-	CalDiagDataOverlay.h DiagDataOverlay.h TkrDiagDataOverlay.h 
-Log Message:
-    *
-------------------------------------------------------------
-User: usher  Tue Apr 27 09:45:22 PDT 2010
-overlayRootData/cmt
-
-Modified Files:
-	requirements 
-Log Message:
-    *
-------------------------------------------------------------
 TAG
 Tag name: overlayRootData-00-02-04, operation: add
 Package: overlayRootData
