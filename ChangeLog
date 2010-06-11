@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Thu Jun 10 17:47:03 PDT 2010
+GlastRelease-scons/overlayRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+updates for SCons build
+    *
+------------------------------------------------------------
 TAG
 Tag name: overlayRootData-00-03-00, operation: add
 Package: overlayRootData
