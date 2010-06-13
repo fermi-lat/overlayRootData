@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Sun Jun 13 00:03:20 PDT 2010
+overlayRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+stag/GoGui_auto-tag
+    *
+------------------------------------------------------------
 User: jrb  Thu Jun 10 17:47:03 PDT 2010
 GlastRelease-scons/overlayRootData
 
