@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Fri Aug  6 12:05:40 PDT 2010
+GlastRelease-scons/overlayRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+add new keyword args to Rootcint call
+    *
+------------------------------------------------------------
 TAG
 Tag name: overlayRootData-00-03-01, operation: add
 Package: overlayRootData
