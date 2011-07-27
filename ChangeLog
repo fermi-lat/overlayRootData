@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Wed Jul 27 07:50:10 PDT 2011
+overlayRootData
+
+Added Files:
+      Tag: GlastReleasev17r35p23
+	SConscript overlayRootDataLib.py 
+Log Message:
+merge in SCons updates for P7
+    *
+------------------------------------------------------------
 TAG
 Tag name: overlayRootData-00-03-02, operation: add
 Package: overlayRootData
