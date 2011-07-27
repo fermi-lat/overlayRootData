@@ -3,7 +3,8 @@
 
 $Id$
 @verbatim
-St. Patty's Day '09 v0r3p2  TU  Include a setStatus method in AcdOverlay
+27-Jul-2011 overlayRootData-00-02-02-gr01 HMK Merge in SCons updates for P7
+St. Patty's Day '09 v0r2p2  TU  Include a setStatus method in AcdOverlay
 St. Patty's Day '09 v0r2p1  TU  Bump version number! 
 16-Mar-09           v0r2p0  TU  Add new data object to handle Pt* variables for overlay
 15-Jan-09           v0r1p1  TU  bump OverlayEvent version number
