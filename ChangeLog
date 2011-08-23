@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Aug 22 18:12:22 PDT 2011
+overlayRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+increment ClassDef in EventOverlay
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-gr03, operation: add
 Package: overlayRootData
