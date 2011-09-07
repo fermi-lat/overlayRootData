@@ -2,6 +2,15 @@
 TAG
 Tag name: GlastRelease-19-03-07, operation: add
 Package: overlayRootData
+User: heather  Wed Sep  7 10:54:03 2011
+Files:
+  overlayRootData/doc/release.notes  1.15
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-19-03-07, operation: add
+Package: overlayRootData
 User: heather  Wed Sep  7 10:53:58 2011
 Files:
   overlayRootData/.cvsignore  1.2
