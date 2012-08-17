@@ -1,5 +1,42 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-20-04-02, operation: add
+Package: overlayRootData
+User: heather  Fri Aug 17 12:29:36 2012
+Files:
+  overlayRootData/.cvsignore  1.2
+  overlayRootData/ChangeLog  1.115
+  overlayRootData/SConscript  1.9
+  overlayRootData/overlayRootDataLib.py  1.1
+  overlayRootData/cmt/.cvsignore  1.1.1.1
+  overlayRootData/cmt/NMake  1.1.1.1
+  overlayRootData/cmt/requirements  1.17
+  overlayRootData/doc/release.notes  1.16
+  overlayRootData/overlayRootData/PtOverlay.h  1.1
+  overlayRootData/overlayRootData/AcdOverlay.h  1.2
+  overlayRootData/overlayRootData/LinkDef.h  1.3
+  overlayRootData/overlayRootData/TkrDiagDataOverlay.h  1.1
+  overlayRootData/overlayRootData/CalDiagDataOverlay.h  1.1
+  overlayRootData/overlayRootData/CalOverlay.h  1.1.1.1
+  overlayRootData/overlayRootData/EventOverlay.h  1.7
+  overlayRootData/overlayRootData/GemOverlay.h  1.2
+  overlayRootData/overlayRootData/GlastAxis.h  1.1.1.1
+  overlayRootData/overlayRootData/TkrOverlay.h  1.1.1.1
+  overlayRootData/overlayRootData/DiagDataOverlay.h  1.1
+  overlayRootData/src/TkrOverlay.cxx  1.2
+  overlayRootData/src/PtOverlay.cxx  1.2
+  overlayRootData/src/mainpage.h  1.1.1.1
+  overlayRootData/src/AcdOverlay.cxx  1.2
+  overlayRootData/src/GemOverlay.cxx  1.1.1.1
+  overlayRootData/src/EventOverlay.cxx  1.6
+  overlayRootData/src/CalOverlay.cxx  1.2
+  overlayRootData/src/test/.cvsignore  1.1.1.1
+  overlayRootData/src/test/testOverlayClasses.cxx  1.3
+  overlayRootData/src/test/.rootrc  1.1.1.1
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-20-04-01, operation: add
 Package: overlayRootData
 User: heather  Tue Jul 24 18:28:22 2012
