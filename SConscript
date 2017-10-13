@@ -19,7 +19,7 @@ overlayRootDataRootcint = libEnv.Rootcint('overlayRootData/overlayRootData_rootc
                                            'overlayRootData/GemOverlay.h',
                                            'overlayRootData/TkrOverlay.h',
                                            'overlayRootData/LinkDef.h'],
-                                          includes = [''],
+                                          includes = ['', '../include'],
                                           localIncludes = locIncs,
                                           packageName = 'overlayRootData')
 
